@@ -41,13 +41,9 @@ I'm a Frontend Dev with 1 years plus  of building experience.
   
 #### Github Stats 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=muhammod1&count_private=true&theme=dark&hide=contribs,issues)
  
 </details>
 
-
-
-# My summery in graphical display;
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammod1&show_icons=true&theme=algolia&count_private=true&line_height=27">
  </a>
