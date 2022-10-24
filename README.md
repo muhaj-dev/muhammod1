@@ -1,1 +1,46 @@
-# muhammod1-muhammod1
+### Hi there 👋 I am Muhaj
+
+<!--
+**muhammod1/muhammod1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+
+
+
+
+## Hello, I'm Muhaj  <img src="https://emoji.slack-edge.com/T02HBS55FCG/cool-doge/aa3c8fd9037a0604.gif" width="28" alt="hi">
+
+I'm a Frontend Dev with 1 years plus  of building experience.
+
+:mailbox: Looking for me!
+
+[![Twitter Badge](https://img.shields.io/badge/-@muhaj_dev-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/muhaj_dev) [![Linkedin Badge](https://img.shields.io/badge/-Ajibade_Muhammod-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajibade-olawale-6111911b5)
+
+#### Top Technologies and Stack ⚡️
+
+![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=) ![Redux](https://img.shields.io/static/v1?style=for-the-badge&message=Reduxy&color=777BB4&logo=Solidity&logoColor=FFFFFF&label=) ![Next.js] (https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=777BB4&logo=Next.js&logoColor=FFFFFF&label=) ![Scss] (https://img.shields.io/static/v1?style=for-the-badge&message=scss&color=777BB4&logo=Solidity&logoColor=FFFFFF&label=) ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
+
+![Tailwind](https://img.shields.io/static/v1?style=for-the-badge&message=tailwind&color=777BB4&logo=Solidity&logoColor=FFFFFF&label=) ![Boostrap](https://img.shields.io/static/v1?style=for-the-badge&message=boostrap&color=777BB4&logo=Solidity&logoColor=FFFFFF&label=) ![Chakra-UI](https://img.shields.io/static/v1?style=for-the-badge&message=chakra-UI&color=777BB4&logo=Solidity&logoColor=FFFFFF&label=) ![Material-UI](https://img.shields.io/static/v1?style=for-the-badge&message=material-ui&color=777BB4&logo=Solidity&logoColor=FFFFFF&label=) 
+
+
+<!-- #### Work  -->
+
+<!-- Portfolio: https://github.com/muhammod1 -->
+ 
+  
+#### Github Stats 
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=muhammod1&count_private=true&theme=dark&hide=contribs,issues)
+ 
+</details>
