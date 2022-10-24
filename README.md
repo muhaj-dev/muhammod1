@@ -47,16 +47,11 @@ I'm a Frontend Dev with 1 years plus  of building experience.
 
 
 
-# My inaccurate summery in graphical display;
+# My summery in graphical display;
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammod1&show_icons=true&theme=algolia&count_private=true&line_height=27">
  </a>
- <div>
-<a href="https://wakatime.com/@483bdb9a-fc96-49c6-9d6a-ec7373739336"><img src="https://wakatime.com/badge/user/483bdb9a-fc96-49c6-9d6a-ec7373739336.svg" alt="Total time coded    since November 1 2021" /></a>
-  </div>
- <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=muhammod1&theme=algolia&count_private=true&line_height=27&langs_count=7">
- </a>
+
 
 
   <!---
