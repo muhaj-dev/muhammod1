@@ -31,7 +31,7 @@ I'm a Frontend Dev with 1 years plus  of building experience.
 
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=) ![Redux](https://img.shields.io/static/v1?style=for-the-badge&message=Reduxy&color=777BB4&logo=Redux&logoColor=FFFFFF&label=) ![Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=777BB4&logo=Next.js&logoColor=FFFFFF&label=) ![Scss](	https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
 
-![Tailwind](https://img.shields.io/static/v1?style=for-the-badge&message=tailwind&color=777BB4&logo=Solidity&logoColor=FFFFFF&label=) ![Boostrap](https://img.shields.io/static/v1?style=for-the-badge&message=boostrap&color=777BB4&logo=Solidity&logoColor=FFFFFF&label=) ![Chakra-UI](https://img.shields.io/static/v1?style=for-the-badge&message=chakra-UI&color=777BB4&logo=Solidity&logoColor=FFFFFF&label=) ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white) 
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Boostrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra-UI](https://img.shields.io/static/v1?style=for-the-badge&message=chakra-UI&color=777BB4&logo=Solidity&logoColor=FFFFFF&label=) ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white) 
 
 
 <!-- #### Work  -->
