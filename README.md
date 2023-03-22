@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## Hello, I'm Muhaj  <img src="https://emoji.slack-edge.com/T02HBS55FCG/cool-doge/aa3c8fd9037a0604.gif" width="28" alt="hi">
 
-I'm a Frontend Dev with 1 years plus  of building experience.
+I'm a Frontend Dev with 2 years plus  of building experience.
 
 :mailbox: Looking for me!
 
